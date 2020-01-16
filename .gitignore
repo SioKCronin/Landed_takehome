@@ -5,3 +5,4 @@ Dist/
 Coverage/
 .vscode/
 .env
+yarn-error.log
