@@ -1,0 +1,8 @@
+{
+  "name": "Landed_takehome",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mangosing/Landed_takehome.git",
+  "author": "Sean Mangosing <seanmangosing@gmail.com>",
+  "license": "MIT"
+}
