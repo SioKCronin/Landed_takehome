@@ -1,4 +1,4 @@
-# Landed_takehome
+# Landed take home project
 
 To install all dependicies
 `npm install` or `yarn`
