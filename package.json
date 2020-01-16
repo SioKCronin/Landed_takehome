@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "git@github.com:mangosing/Landed_takehome.git",
   "author": "Sean Mangosing <seanmangosing@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js,css}\" --write"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
 }
